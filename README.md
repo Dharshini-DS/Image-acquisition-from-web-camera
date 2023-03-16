@@ -132,6 +132,7 @@ cv2.destroyAllWindows()
 
 
 
+![Uploading exp 2c.jpeg…]()
 
 
 ## Result:
